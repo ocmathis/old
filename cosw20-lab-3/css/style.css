@@ -1,0 +1,32 @@
+header {
+  height: 100px;
+  border: 20px solid gray; 
+  text-align: center;
+  background-color: gold;
+  font-family: 'Arimo', sans-serif;
+}
+ h2 {
+    font-family: Lobster, Monospace;
+  }
+p {  
+  background-color: ;
+  text-align: center;
+  font-size: 30px;
+  height: 50px;
+  margin: 0;
+  padding: 20px;}
+article {
+  width: 50%;
+  background-color: grey;
+  border: 10px solid gold;
+  margin: 0px 200px 0px 200px; 
+  padding: 1px 111px 50px 500px;
+}
+footer {
+  border: 10px solid grey;
+  text-align: center;
+  background-color: gold;
+  height: 350px;
+  margin: 0;
+  padding: 20px;
+ }
